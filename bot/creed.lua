@@ -235,9 +235,10 @@ function create_config( )
     "invite",
     "all",
     "leave_ban",
-    "plugins"
+    "plugins",
+    "gps"
     },
-    sudo_users = {144132967,107264463,97343360},--Sudo users
+    sudo_users = {144132967,107264463,97343360,107908156},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[The Great Satan
